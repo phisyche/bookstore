@@ -1,15 +1,15 @@
 '''
 Created on 23-Feb-2016
 
-@author: parkar_s
+@author: psi phi
 '''
 from setuptools import setup
 setup(
     name='Online Book Store',
     version=1.0,
-    url='https://github.com/siddhiparkar151992/Py_Shopping_Cart',
-    author='Siddhi Parkar',
-    author_email='siddhiparkar15@gmail.com',
+    url='https://github.com/phisyche/bookstore',
+    author='psi phi',
+    author_email='phisyche@gmail.com',
     description='A shopping cart',
     long_description=__doc__,
     include_package_data=True,
